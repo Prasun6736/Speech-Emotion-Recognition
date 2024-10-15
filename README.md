@@ -18,5 +18,5 @@ The objective of this project is to classify speech emotions (such as happy, sad
 - Pleasant Surprise (PS)
 
 ## Model Output
-After running the prediction file, the predicted emotion will be printed to the console.
+After running the prediction file, the predicted emotion will be printed .
 
